@@ -139,6 +139,15 @@ gap: 10px;
 background: #0152A8;
 margin-top: 200px;
 }
+.box8{
+    width: 50px;
+    margin-top: 320px;
+    margin-left: -80px;
+}
+.box9{
+    margin-top: 320px;
+    margin-left: -60px;
+}
 .team{
     color:white;
 width: 84.903px;
@@ -278,7 +287,7 @@ footer{
   margin-left: 300px;
   margin-top: 100px; 
   }
-  h2{
+   .exp{
     color: #1C1C1C;
   font-family: Montserrat;
   font-size: 20px;
@@ -289,10 +298,10 @@ footer{
   margin-top: -200px;
   }
   .fotter2{
-    margin-left: 300px;
+    margin-left: 100px;
     
   }
-  h5{
+   .us{
     width: 100px;
     margin-left: 750px;
   }
@@ -318,4 +327,31 @@ font-size: 20px;
 font-style: normal;
 font-weight: 600;
 line-height: 114.5%;
+  }
+  .book{
+    color: #1C1C1C;
+font-family: Montserrat;
+font-size: 20px;
+font-style: normal;
+font-weight: 600;
+line-height: 114.5%;
+margin-left: 1300px;
+margin-top: -150px;
+  }
+  .it{
+    margin-left: 1300px;
+  }
+  input{
+    margin-left: 1300px;
+  }
+  .submit{
+width: 150px;
+display: flex;
+padding: 17px 42px;
+align-items: flex-start;
+gap: 10px;
+color: white;
+margin-left: 1300px;
+margin-top: 30px;
+background: #0152A8;
   }
